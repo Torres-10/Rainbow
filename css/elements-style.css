@@ -1,0 +1,189 @@
+body {
+	color: #64572a;
+	font-family: 'Open sans', Helvetica, Arial, sans-serif;
+	font-size: 22px;
+	font-weight: 300;
+}
+
+.top-blue {
+	height: 20px;
+	background-color: #abddf8;
+}
+
+.top-light-blue {
+	height: 20px;
+	background-color: #b7ecfa;
+}
+
+.main-title {
+	color: #0099cc;
+	font-size: 40px;
+	font-weight: 400;
+	background-color: #d7f4fc;
+	padding: 80px 0;
+}
+
+#section1 {
+	background-color: #abddf8;
+}
+
+#section2 {
+	margin-top: 80px;
+}
+
+.nav-link {
+	padding: 30px 0;
+}
+
+.table-title {
+	font-size: 30px;
+	font-weight: 400;
+	padding: 30px 0 30px 30px;
+}
+
+.table-title--green {
+	color: #006633;
+}
+
+.table-title--black {
+	color: #3f323f;
+}
+
+.table-title--blue {
+	color: #0099cc;
+}
+
+.tb-desc-green {
+	color: #006633;
+}
+
+.tb-desc-dark {
+	color: #3f323f;
+}
+
+.tb-desc-blue {
+	color: #0099cc;
+}
+
+.tb-desc-purple {
+	color: #993399;
+}
+
+.tb-desc-gold {
+	color: #8b6814;
+}
+
+.bg-green-1 {
+	background-color: #a4e0be;
+}
+
+.bg-green-2 {
+	background-color: #bfe9d1;
+}
+
+.bg-pink-1 {
+	background-color: #f5ade7;
+}
+
+.bg-pink-2 {
+	background-color: #ffcaff;
+}
+
+.bg-pink-3 {
+	background-color: #fbe1fd;
+}
+
+.bg-blue-1 {
+	background-color: #abddf8; 
+}
+
+.bg-blue-2 {
+	background-color: #b7ecfa;
+}
+
+.bg-blue-3 {
+	background-color: #d7f4fc;
+}
+
+.bg-purple-1 {
+	background-color: #ccccff;
+}
+
+.bg-purple-2 {
+	background-color: #ddddff;
+}
+
+.bg-purple-3 {
+	background-color: #eaeaff;
+}
+
+.bg-gold-1 {
+	background-color: #dddba0;
+}
+
+.bg-gold-2 {
+	background-color: #ece9c8;
+}
+
+.tb-desc {
+	padding: 30px 0 30px 30px;
+	font-weight: 400;
+}
+
+.table-width-all {
+	width: 100%;
+}
+
+.packages-area {
+	max-width: 1340px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.plan-btn {
+	padding: 15px 60px;
+    border-radius: 30px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #64572a;
+    
+}
+
+.plan-btn--gold {
+	background-color: #dddba0;
+}
+
+.plan-btn--blue {
+	background-color: #abddf8;
+}
+
+.plan-btn--purple {
+	background-color: #ccccff;
+}
+
+.btn-pad {
+	padding: 30px 30px 30px 30px;
+}
+
+.button {
+	text-align: center;
+}
+
+.plan-btn--blue:hover {
+	color: #fff;
+	background: #0099cc;
+	text-decoration: none;
+}
+
+.plan-btn--purple:hover {
+	background: #993399;
+	color: #fff;
+	text-decoration: none;
+}
+
+.plan-btn--gold:hover {
+	background: #8b6814;
+	color: #fff;
+	text-decoration: none;
+}
